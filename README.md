@@ -25,6 +25,12 @@ __Methods used:__
 
 # Getting started
 
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/3.39.0/gradio.js"
+></script>
+
+<gradio-app src="https://mateocontreras-fastai-flower-classif.hf.space"></gradio-app>
 
 # Data
 The data used to train this model was the Oxford 102 Flower Dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/. This dataset contains 102 flower categories, with a total of 8189 images. 
