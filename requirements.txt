@@ -1,0 +1,7 @@
+fastai
+torch
+gradio
+numpy
+pandas
+pathlib
+timm
