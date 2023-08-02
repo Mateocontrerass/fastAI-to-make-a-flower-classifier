@@ -2,8 +2,7 @@
 # *fastAI* to make a Flower Classifier
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkJRaQR9N7WaO8iv2w3Or7D2gQNF1mwpxbjA&usqp=CAU" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkJRaQR9N7WaO8iv2w3Or7D2gQNF1mwpxbjA&usqp=CAU" width="650" title="hover text">
 </p>
 
 
