@@ -1,3 +1,15 @@
+---
+title: FastAI Flower Classif
+emoji: ⚡
+colorFrom: blue
+colorTo: yellow
+sdk: gradio
+sdk_version: 3.39.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+
 
 # *fastAI* to make a Flower Classifier
 
