@@ -32,7 +32,7 @@ __Methods used:__
 
 The model is hosted on Hugging Face Spaces which you can access through this [link](https://huggingface.co/spaces/Mateocontreras/fastAI_flower_classif). Just upload the picture and let the model do the hard work.
 
-# Getting Started
+# Try it out!
 
 1.  Run cuaderno.ipynb in Google Colab.
 2. Download the learner_p.pkl file.
