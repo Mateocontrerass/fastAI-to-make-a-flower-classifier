@@ -14,7 +14,7 @@ The primary goal of this project is to develop a powerful machine learning model
 - fastAI
 - Jupyter Lab
 - Pandas
-- 
+  
 ## How to Use It
 
 The trained model is hosted on Hugging Face Spaces, accessible through [this link](https://huggingface.co/spaces/Mateocontreras/fastAI_flower_classif). To utilize the classifier, simply upload an image, and let the model work its magic.
