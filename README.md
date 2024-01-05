@@ -1,50 +1,33 @@
+# Flower Classifier
 
-# *fastAI* to make a Flower Classifier
-
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkJRaQR9N7WaO8iv2w3Or7D2gQNF1mwpxbjA&usqp=CAU" width="650" title="hover text">
-</p>
-
-
-
-Do you like gardening? Would you like to know more about flowers?
-
-If so, then this project is for you. In this project, I have built a flower classifier that can identify over 100 different species of flowers. The classifier is trained on a dataset of over 10,000 flower images, and it can classify flowers with an accuracy of over 95%.
+Do you have a passion for gardening or simply love exploring the beauty of different flowers? Look no further! This project introduces a sophisticated flower classifier capable of identifying over 100 different species of flowers with an impressive accuracy exceeding 95%.
 
 ## Project Objective
 
+The primary goal of this project is to develop a powerful machine learning model capable of recognizing nearly any common flower. This classifier can be a valuable tool for various applications, including aiding in the identification of wildflowers for wildlife conservation, assisting gardening enthusiasts, and contributing to educational initiatives.
 
-The purpose of this project is to create a machine learning model that can (_almost_) any common flower. This model could be used to help people identify flowers in the wild, which can be useful for a variety of purposes, such as wildlife conservation, gardening, and education.
+### Technologies and Tools
+- Deep Learning
+- Python
+- Hugging Face Spaces
+- Git
+- fastAI
+- Jupyter Lab
+- Pandas
+- 
+## How to Use It
 
-__Methods used:__
- - Deep Learning
- - Python
- - Hugging face Spaces
- - Git
- - fastAI 
- - Jupyter Lab
- 
+The trained model is hosted on Hugging Face Spaces, accessible through [this link](https://huggingface.co/spaces/Mateocontreras/fastAI_flower_classif). To utilize the classifier, simply upload an image, and let the model work its magic.
 
+## Try it Out!
 
+Curious to see the flower classifier in action? Head over to [this link](https://mateocontreras.onrender.com/projects/flower_classif/) and experience the excitement of identifying various flowers with just a click!
 
+## Data
 
-# How to use it
+The model was trained on the Oxford 102 Flower Dataset, available [here](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/). This dataset comprises 102 flower categories, totaling 8189 images. The dataset was divided into a training set (6149 images), a validation set (1020 images), and a test set (1020 images). The training set facilitated model training, the validation set evaluated performance, and the test set assessed the model's accuracy on previously unseen data.
 
-The model is hosted on Hugging Face Spaces which you can access through this [link](https://huggingface.co/spaces/Mateocontreras/fastAI_flower_classif). Just upload the picture and let the model do the hard work.
-
-# Try it out!
-
-1.  Run cuaderno.ipynb in Google Colab.
-2. Download the learner_p.pkl file.
-3. Create the App.py file.
-4. Upload app.py and learner_p.pkl files to Hugging Face Spaces
-# Data
-The data used to train this model was the Oxford 102 Flower Dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/. This dataset contains 102 flower categories, with a total of 8189 images. 
-
-The data was split into a training set of 6149 images, a validation set of 1020 images, and a test set of 1020 images. The training set was used to train the model, the validation set was used to evaluate the model's performance, and the test set was used to test the model's performance on unseen data.
-
-The data was preprocessed to resize the images to 224x224 pixels and normalize the pixel values.
-
+Data preprocessing included resizing images to 224x224 pixels and normalizing pixel values.
 
 ## Badges
 
